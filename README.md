@@ -14,7 +14,7 @@ iJar is built to execute Java `.jar` files natively on iOS devices running iOS 1
 
 ## 📲 Installation
 
-1. Download the `.ipa` file from the [Releases](https://github.com/your-username/your-repo-name/releases) section.
+1. Download the `.ipa` file from the [Releases](https://github.com/CH-Triple/iJar/releases) section.
 2. Install the app using **one of the following tools only**:
    - [Sideloadly](https://sideloadly.io)
    - [AltStore](https://altstore.io)
