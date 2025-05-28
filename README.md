@@ -12,6 +12,24 @@ iJar is built to execute Java `.jar` files natively on iOS devices running iOS 1
 
 ---
 
+## 📱 Tested Devices
+
+- iPhone 15 Pro Max - Stable
+- iPhone 13 - Stable
+- iPhone 12 Mini - Stable
+- iPhone SE (3. Gen) - Stable/Not recommended
+- iPhone 6s - Unstable
+
+---
+
+## 📃 To-do
+
+- jre17 support
+- GUI programs
+- iOS 17.0 support
+- Bug fixes...
+---
+
 ## 📲 Installation
 
 1. Download the `.ipa` file from the [Releases](https://github.com/CH-Triple/iJar/releases) section.
